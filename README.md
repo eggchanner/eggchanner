@@ -1,4 +1,4 @@
- [![HitCount](https://hits.dwyl.com/eggchanner/eggchanner.svg?style=flat-square&show=unique)](http://hits.dwyl.com/eggchanner/eggchanner)
+[![HitCount](https://hits.dwyl.com/eggchanner/eggchanner.svg?style=flat-square&&labelColor=E9E9E9)](http://hits.dwyl.com/eggchanner/eggchanner)
 
 ![image alt](https://files.catbox.moe/f8fxgw.jpg)
 <!--
